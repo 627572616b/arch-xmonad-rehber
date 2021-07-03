@@ -1,2 +1,4 @@
-# arch-xmonad-rehber
-Arch ve xmonad kurulumunda izlediğim kurulumu karşılaştığım hataların çözümlerini bu projeye yazacağım belirtmeliyim ki bu konuda şuan için acemiyim
+# Arch Linux ve Xmonad Minimal Düzey Kurulum
+
+**NOT**
+Kurulum uefi bios içindir
