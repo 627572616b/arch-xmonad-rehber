@@ -1,4 +1,8 @@
 # Arch Linux ve Xmonad Minimal Düzey Kurulum
 
-**NOT**
+**NOT:**
 Kurulum uefi bios içindir
+
+```
+loadkeys trq
+```
